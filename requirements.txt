@@ -1,2 +1,1 @@
-Speech_Recognition==3.10.1
 streamlit==1.30.0
